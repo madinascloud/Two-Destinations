@@ -1,0 +1,22 @@
+.plane {
+    width: 220px !important;   /* increase size */
+}
+
+/* Video wrapper smaller */
+.video-container video {
+    width: 70%;
+    max-width: 700px;
+}
+.paris-card {
+    background-image: url("assets/Paris at night _ My digital illustration _ Helena Crevel.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.dubai-card {
+    background-image: url("assets/Abu Dhabi skyline , United Arab Emirates.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
